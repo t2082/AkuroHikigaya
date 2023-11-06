@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="#" target="_blank">
+  <img src="svg/akuro.svg" width="1200" alt="hikigaya-akuro" />
+</a>
+
+
 <!--
 **AkuroHikigaya/AkuroHikigaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
