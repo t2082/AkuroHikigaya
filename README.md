@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="#" target="_blank">
   <img src="svg/akuro.svg" width="1200" alt="hikigaya-akuro" />
 </a>
